@@ -1,5 +1,7 @@
 <template>
-  <div>Hello {{ value }}</div>
+  <div>
+    <img src="./assets/crossit.png">
+    </div>
 </template>
 
 <script>
